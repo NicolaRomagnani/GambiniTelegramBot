@@ -1,0 +1,25 @@
+{
+  "cliente": "Wepa",
+  "interazioni": [
+    {
+      "cliente": "Wepa",
+      "tipo_interazione": "email",
+      "problema": "domande su sostenibilità e consumo energetico delle linee",
+      "azione": "inviato bilancio energetico + report di sostenibilità",
+      "urgenza": "bassa",
+      "prossimo_step": "possibile visita in settembre",
+      "note": "molto sensibili ai temi ESG",
+      "timestamp": "2025-07-13T17:20:12.527601"
+    },
+    {
+      "cliente": "Wepa",
+      "tipo_interazione": "chiamata",
+      "problema": "curiosità sul modulo AirMill",
+      "azione": "call con demo video",
+      "urgenza": "media",
+      "prossimo_step": "valutazione tecnica interna",
+      "note": "cliente molto competente",
+      "timestamp": "2025-07-14T12:35:41.721991"
+    }
+  ]
+}

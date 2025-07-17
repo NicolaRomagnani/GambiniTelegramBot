@@ -1,0 +1,25 @@
+{
+  "cliente": "K-C",
+  "interazioni": [
+    {
+      "cliente": "K-C",
+      "tipo_interazione": "chiamata",
+      "problema": "ritardi nella consegna di alcuni ricambi",
+      "azione": "chiamata con responsabile acquisti",
+      "urgenza": "media",
+      "prossimo_step": "verifica magazzino e invio aggiornamento entro domani",
+      "note": "cliente collaborativo, ma preoccupato per eventuali fermi",
+      "timestamp": "2025-07-15T11:45:10.251761"
+    },
+    {
+      "cliente": "K-C",
+      "tipo_interazione": "email",
+      "problema": "richiesta offerta aggiornamento impianto converting",
+      "azione": "inviata bozza preliminare",
+      "urgenza": "bassa",
+      "prossimo_step": "attesa feedback tecnico",
+      "note": "valutano diversi fornitori",
+      "timestamp": "2025-07-10T09:15:50.129856"
+    }
+  ]
+}

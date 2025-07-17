@@ -1,0 +1,15 @@
+{
+  "cliente": "Essity",
+  "interazioni": [
+    {
+      "cliente": "Essity",
+      "tipo_interazione": "visita",
+      "problema": "nessun problema",
+      "azione": "venditore di passaggio",
+      "urgenza": "alta",
+      "prossimo_step": "nessuna azione",
+      "note": "mandare e-mail di ringraziamento",
+      "timestamp": "2025-07-16T13:30:32.721816"
+    }
+  ]
+}

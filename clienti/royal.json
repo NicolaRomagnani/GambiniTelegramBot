@@ -1,0 +1,25 @@
+{
+  "cliente": "Royal",
+  "interazioni": [
+    {
+      "cliente": "Royal",
+      "tipo_interazione": "offerta",
+      "problema": "valutazione nuova linea completa converting",
+      "azione": "inviata offerta commerciale e layout preliminare",
+      "urgenza": "media",
+      "prossimo_step": "call tecnica con R&D la prossima settimana",
+      "note": "ottimo clima, interesse concreto",
+      "timestamp": "2025-07-09T16:05:44.381612"
+    },
+    {
+      "cliente": "Royal",
+      "tipo_interazione": "chiamata",
+      "problema": "chiarimenti sul sistema di controllo qualità",
+      "azione": "spiegazione dettagliata e invio brochure tecnica",
+      "urgenza": "bassa",
+      "prossimo_step": "attesa valutazione interna",
+      "note": "preferiscono risposte scritte",
+      "timestamp": "2025-07-05T10:38:29.847293"
+    }
+  ]
+}

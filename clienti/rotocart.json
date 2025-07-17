@@ -1,0 +1,15 @@
+{
+  "cliente": "Rotocart",
+  "interazioni": [
+    {
+      "cliente": "Rotocart",
+      "tipo_interazione": "service",
+      "problema": "fermo impianto su unità rewinder",
+      "azione": "intervento d'urgenza già in corso",
+      "urgenza": "alta",
+      "prossimo_step": "invio ricambio domani",
+      "note": "situazione sotto controllo",
+      "timestamp": "2025-07-16T08:11:57.409884"
+    }
+  ]
+}

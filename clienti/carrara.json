@@ -1,0 +1,15 @@
+{
+  "cliente": "Carrara",
+  "interazioni": [
+    {
+      "cliente": "Carrara",
+      "tipo_interazione": "visita",
+      "problema": "velocità ridotta",
+      "azione": "service ha fatto un check-up",
+      "urgenza": "bassa",
+      "prossimo_step": "telefonare",
+      "note": "voglio fare un investimento nel 2026",
+      "timestamp": "2025-07-16T14:00:32.721816"
+    }
+  ]
+}

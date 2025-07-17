@@ -1,0 +1,15 @@
+{
+  "cliente": "P&G",
+  "interazioni": [
+    {
+      "cliente": "P&G",
+      "tipo_interazione": "visita",
+      "problema": "linea di embossing rumorosa oltre soglia",
+      "azione": "sopralluogo con tecnico Gambini",
+      "urgenza": "alta",
+      "prossimo_step": "report tecnico entro venerdì e proposta migliorativa",
+      "note": "impianto datato ma strategico per il sito",
+      "timestamp": "2025-07-12T14:22:08.721943"
+    }
+  ]
+}

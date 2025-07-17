@@ -1,0 +1,15 @@
+{
+  "cliente": "Sofidel",
+  "interazioni": [
+    {
+      "cliente": "Sofidel",
+      "tipo_interazione": "visita",
+      "problema": "problema con la ribobinatrice",
+      "azione": "venditore va alla visita per vedere la situazione",
+      "urgenza": "media",
+      "prossimo_step": "ritorno alla visita lunedì 21 luglio",
+      "note": "importante monitorare la situazione e capire come risolvere il problema",
+      "timestamp": "2025-07-16T13:00:32.721816"
+    }
+  ]
+}
